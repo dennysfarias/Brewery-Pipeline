@@ -1,0 +1,37 @@
+# Environment variables
+.env
+
+# Data and Logs
+datalake/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PySpark
+metastore_db/
+derby.log
+
+# IDEs
+.vscode/
+.idea/
